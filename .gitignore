@@ -1,0 +1,22 @@
+
+#dataset
+dataset_lists
+data
+
+#pycache
+__pycache__
+
+#pre models
+fakespotter_best_model.pth
+fakespotter_final_model.pth
+
+#logs
+evaluation_report.txt
+training_history.json
+
+#old code for model.py but improtant for evaluation of models
+degraded_fake_spotter.py
+
+# Visualization
+visualizations
+roc_curve.png
